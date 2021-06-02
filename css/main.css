@@ -67,5 +67,5 @@ img.solution {
 }
 
 .container-3 > div {
-    width: calc(100% - 20px);
+    background-color: #8e44ad;
 }
