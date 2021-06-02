@@ -47,9 +47,6 @@ img.solution {
 }
 
 .container-1 {
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    align-content: center;
     background-color: #1abc9c;
 }
 
@@ -58,9 +55,6 @@ img.solution {
 }
 
 .container-2 {
-    flex-wrap: wrap-reverse;
-    justify-content: center;
-    align-content: space-between;
     background-color: #f1c40f;
 }
 
@@ -69,11 +63,9 @@ img.solution {
 }
 
 .container-3 {
-    flex-direction: column;
     background-color: #9b59b6;
 }
 
 .container-3 > div {
-    background-color: #8e44ad;
     width: calc(100% - 20px);
 }
